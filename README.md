@@ -2,8 +2,6 @@
 
 # 🎮 Mave Roleplay (Open.MP)
 
-![Mave Roleplay Logo](https://github.com/XenoXyz909/MaveRP-open.mp/blob/main/logo.png?raw=true)
-
 **MaveRP** is a modern roleplay gamemode built for [Open.MP](https://open.mp), designed to bring a realistic and optimized roleplay experience to San Andreas Multiplayer (SA-MP) players.  
 Developed with performance, modularity, and immersion in mind.
 
@@ -74,3 +72,6 @@ Example:
         "main_scripts": ["main"]
     }
 }
+
+
+![Mave Roleplay Logo](https://github.com/XenoXyz909/MaveRP-open.mp/blob/main/logo.png?raw=true)
