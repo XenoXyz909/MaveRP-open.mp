@@ -7,6 +7,7 @@ Developed with performance, modularity, and immersion in mind.
 
 Credits :
 Yee (Owner & Founder)
+
 XenoX (Developer & Founder)
 
 ---
