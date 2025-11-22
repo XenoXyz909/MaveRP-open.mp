@@ -6,7 +6,8 @@
 Developed with performance, modularity, and immersion in mind.
 
 Credits :
-XenoX (Developer & Owner)
+Yee (Owner & Founder)
+XenoX (Developer & Founder)
 
 ---
 
