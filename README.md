@@ -1,17 +1,17 @@
-# MaveRP-open.mp
+# MaveRP-projects
 
-# 🎮 Mave Roleplay (Open.MP)
+# Mave Gamemode
+# Mave Client
+# Mave Website
 
 **MaveRP** is a modern roleplay gamemode built for [Open.MP](https://open.mp), designed to bring a realistic and optimized roleplay experience to San Andreas Multiplayer (SA-MP) players.  
 Developed with performance, modularity, and immersion in mind.
 
 Credits :
 Yee (Owner & Founder)
-
 XenoX (Developer & Founder)
 
-
-
+based : mvrp
 ---
 
 ## ✨ Features
